@@ -19,7 +19,7 @@ import java.util.*
  * 说明：主功能区入口
  *
  */
-class MainFuncView : LinearLayout {
+class MainFuncView2 : LinearLayout {
     private var mIsShowBack = false // 是否牌面全部朝下
     private val bindAccounts: ArrayList<MainFuncBean> = ArrayList()
     private var currentNbr = 0
@@ -44,7 +44,7 @@ class MainFuncView : LinearLayout {
         bean1.backTitle = "流量套餐1"
         bindAccounts.add(bean1)
         val bean2 = MainFuncBean()
-        bean2.backUrl = "a"
+        bean2.backUrl = ""
         bean2.topUrl = "a"
         bean2.topTitle = "充话费2"
         bean2.backTitle = "流量套餐2"
@@ -56,7 +56,7 @@ class MainFuncView : LinearLayout {
         bean3.backTitle = "流量套餐3"
         bindAccounts.add(bean3)
         val bean4 = MainFuncBean()
-        bean4.backUrl = "a"
+        bean4.backUrl = ""
         bean4.topUrl = "a"
         bean4.topTitle = "充话费4"
         bean4.backTitle = "流量套餐4"

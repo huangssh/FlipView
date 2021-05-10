@@ -12,6 +12,16 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 
+    <com.hss.cn.MainFuncView2
+        android:id="@+id/mainFuncView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <com.hss.cn.MainFuncView3
+        android:id="@+id/mainFuncView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
 
     <LinearLayout
         android:layout_width="match_parent"

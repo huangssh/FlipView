@@ -2,7 +2,7 @@
 循环翻转recycleView中的图片，可根据配置跳过不需要翻转的item，实现简单的Y轴翻转动效。
 
 ## 效果图
-![image.png](https://upload-images.jianshu.io/upload_images/1079777-586fde6900723326.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+[**FlipView**](https://www.jianshu.com/p/4ea892e06aea)
 
 ## 项目地址
 [**FlipView**](https://github.com/huangssh/FlipView)
